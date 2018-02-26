@@ -1,5 +1,3 @@
-## It's adventure time for #youtoo
-
 Under følger en digital variant av den tidligere papirlappen. Denne er vanskeligere for enkelte å miste.
 
 ### Bespisning
