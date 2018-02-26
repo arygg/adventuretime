@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## It's adventure time for #youtoo
 
-You can use the [editor on GitHub](https://github.com/arygg/adventuretime/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Under følger en digital variant av den tidligere papirlappen. Denne er vanskeligere for enkelte å miste.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bespisning
+*|Sted | Adresse | Måltid | Tidspunkt
+-|-|-|-|-
+A|Metropol Palace Hotel|Bulevar kralja Aleksandra 69|Lunch|torsdag 14:00
+B|Madera Resturant|Bulevar kralja Aleksandra 43|Middag|torsdag 19:00
+C|Blåtur|I det blå et sted|Lunch|fredag 13:30
+D|Homa Resturant|Žorža Klemansoa 19|Middag|fredag 19:00
+E|Casa Nova|Gospodar Jovanova 42a|Lunch|lørdag 13:00
+F|Salon 1905|Karađorđeva 48, I floor|Middag|lørdag 19:00
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arygg/adventuretime/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Coctails
+*|Sted|Adresse
+-|-|-
+G|Bar Central|Kralja Petra 59
+H|Kultura Bar|Kralja Milutina 4
+I|Red Bar|Skadarska 17
+J|Kaste	|4 Deligradska St. 11000 Belgrade
+K|Gajba	|44 Karadjordjeva St. 11000 Belgrade
