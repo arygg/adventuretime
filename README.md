@@ -19,5 +19,6 @@ Under følger en digital variant av den tidligere papirlappen. Denne er vanskeli
 |8|Kultura Bar|Kralja Milutina 4|
 |9|Red Bar|Skadarska 17|
 |10|Kaste	|Deligradska 4|
+|11|Cantina del Vino|Strahinjića Bana 66|
 
 <iframe src="https://www.google.com/maps/d/embed?mid=19Adw2nBBkQYObvWAuL8VgKLAA6A3Cvwo" width="640" height="480"></iframe>
