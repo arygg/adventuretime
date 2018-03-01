@@ -11,7 +11,7 @@ Under følger en digital variant av den tidligere papirlappen. Denne er vanskeli
 |5|Casa Nova|Gospodar Jovanova 42a|lørdag 13:00|
 |6|Salon 1905|Karađorđeva 48, I floor|lørdag 19:00|
 
-### Coctails
+### Drikkesteder
 
 | |Sted|Adresse|
 |:---|:---|:---|
