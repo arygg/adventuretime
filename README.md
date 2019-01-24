@@ -1,24 +1,26 @@
 Under følger en digital variant av den tidligere papirlappen. Denne er vanskeligere for enkelte å miste.
 
+Nr 1 er hotellet: 
+Barceló Brno Palace
+
 ### Bespisning
 
 | |Sted | Adresse  | Tidspunkt|
 |:---|:---|:---|:---|
-|1|Metropol Palace Hotel|Bulevar kralja Aleksandra 69|torsdag 14:00|
-|2|Madera Resturant|Bulevar kralja Aleksandra 43|torsdag 19:00|
-|3|Enso|Mitropolita Petra 8|fredag 13:00|
-|4|Homa Resturant|Žorža Klemansoa 19|fredag 19:00|
-|5|Casa Nova|Gospodar Jovanova 42a|lørdag 13:00|
-|6|Salon 1905|Karađorđeva 48, I floor|lørdag 19:00|
+|-|Chateau Herálec||torsdag 13:00|
+|2|Mori|XX|torsdag 19:00|
+|3|Pavillon|XX|fredag 13:00|
+|4|Atelier Cocktail Bar & Bistro|XX|fredag 19:00|
+|5|Borgo Agnese|XX|lørdag 13:00|
+|6|Retro Consistorium|XX|lørdag 19:00|
 
 ### Drikkesteder
 
-| |Sted|Adresse|
+| |Sted|Kategori|
 |:---|:---|:---|
-|7|Bar Central|Kralja Petra 59|
-|8|Kultura Bar|Kralja Milutina 4|
-|9|Red Bar|Skadarska 17|
-|10|Kaste	|Deligradska 4|
-|11|Cantina del Vino|Strahinjića Bana 66|
+|7|Petit Cru Wine Bar|Vinbar|
+|8|Zelená Kočka Pivarium|Øl|
+|9|Cubana|Rom-coctails|
+|10|Super Panda Circus|Coctails|
 
-<iframe src="https://www.google.com/maps/d/embed?mid=19Adw2nBBkQYObvWAuL8VgKLAA6A3Cvwo" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dyKbEmQsJews0V_2qCgcOmetoxg-IN3A" width="640" height="480"></iframe>
