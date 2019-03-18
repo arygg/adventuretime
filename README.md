@@ -7,12 +7,12 @@ Barceló Brno Palace
 
 | |Sted | Adresse  | Tidspunkt|
 |:---|:---|:---|:---|
-|-|Chateau Herálec||torsdag 13:00|
-|2|Mori|XX|torsdag 19:00|
-|3|Pavillon|XX|fredag 13:00|
-|4|Atelier Cocktail Bar & Bistro|XX|fredag 19:00|
-|5|Borgo Agnese|XX|lørdag 13:00|
-|6|Retro Consistorium|XX|lørdag 19:00|
+|-|Chateau Herálec|På vei|torsdag 13:00|
+|2|Mori|Česká 29|torsdag 19:00|
+|3|Pavillon|Jezuitská 687/6|fredag 13:00|
+|4|Atelier Cocktail Bar & Bistro|Kobližná 71/2|fredag 19:00|
+|5|Borgo Agnese|Kopečná 980/43|lørdag 13:00|
+|6|Retro Consistorium|Mečová 356/4|lørdag 19:00|
 
 ### Drikkesteder
 
