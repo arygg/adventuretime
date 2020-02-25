@@ -6,7 +6,7 @@ GLK PREMIER Regency Suites & Spa
 ### Bespisning
 
 | |Sted | Tidspunkt|
-|:---|:---|:---|:---|
+|:---|:---|:---|
 |2|Roof Mezze 360|torsdag 20:00|
 |3|St Regis Brasserie|fredag 13:30|
 |4|Udonya|fredag 19:00|
