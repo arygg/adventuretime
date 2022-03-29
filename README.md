@@ -1,22 +1,23 @@
 Under følger en digital variant av den tidligere papirlappen. Denne er vanskeligere for enkelte å miste.
 
-Hotellet er markert med en seng på kartet: 
-GLK PREMIER Regency Suites & Spa
+Hotellet er markert på kartet: 
+Hotel Stary
 
 ### Bespisning
 
 |Sted | Tidspunkt|
 |:---|:---|
-|Roof Mezze 360|torsdag 20:00|
-|St Regis Brasserie|fredag 13:30|
-|Udonya|fredag 19:00|
-|Ist Too|lørdag 13:30|
-|Mikla|lørdag 19:00|
+|Kogel Mogel|fredag 15:00|
+|Hana Sushi|fredag 20:00|
+|Fiorentina|lørdag 13:00|
+|Enoteka Pergamin|lørdag 19:00|
 
 ### Drikkesteder
 
 |Sted|Kategori|
 |:---|:---|
-|Corner Irish Bar|Øl og diverse|
+|Opus Lounge Bar|Drinks in a hotel bar|
+|Mercy Brown Dive Bar|Drinks, Worlds 50 best bars|
+|Bierhalle Krakow|Ølhall|
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1fr-FrzeEEw7rQDjisKmwr_LITfc5mw7h&hl=en" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=15fjoPVpH-1oOXkbzgvDTcyE8bTfEwlIY&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
