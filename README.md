@@ -12,6 +12,12 @@ Corintia Budapest
 |TOKIO|lørdag 19:00|
 |Hoppa Bistro|søndag 13:00|
 
+### Øvrig program
+|Event | Oppmøtetidspunkt |
+|:---|:---|
+|Eldars Helmet Experience |avreise fra hotellet 10:45|
+|Széchenyi Thermal Bath|avreise fra hotellet 10:30|
+
 ### Drikkesteder
 
 |Sted|Kategori|
