@@ -22,6 +22,7 @@ Hotellet er markert på kartet: Hotel Catalonia Berlin Mitte
 
 |Sted|Kategori|
 |:---|:---|
+|||
 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1BVAbDC3wr_-aPCTGfLnfw-FVyZ1LJd4&ehbc=2E312F" width="640" height="480"></iframe>
