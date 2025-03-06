@@ -7,7 +7,8 @@ Hotellet er markert på kartet: Hotel Catalonia Berlin Mitte
 
 |Sted | Tidspunkt|
 |:---|:---|
-|Long March Canteen|fredag 19:00|
+|Bistro Mitte|fredag 15:30|
+|Long March Canteen|fredag 18:30|
 |Jäger & Lustig|lørdag 14:00|
 |Rutz - Zollhaus|lørdag 20:00|
 
