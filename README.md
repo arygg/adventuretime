@@ -23,7 +23,9 @@ Hotellet er markert på kartet: Hotel Catalonia Berlin Mitte
 
 |Sted|Kategori|
 |:---|:---|
-|||
-
+|Booze Bar|Drinks by preference|
+|Wax on Bar|fra Worlds 50 best bars|
+|Truffle Pig Bar|Speakeasy. Once within local pub Kauz & Kiebitz, pig tracks lead to a doorbell|
+|Velvet Bar |Coctail Bar|
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1BVAbDC3wr_-aPCTGfLnfw-FVyZ1LJd4&ehbc=2E312F" width="640" height="480"></iframe>
