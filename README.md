@@ -22,6 +22,10 @@ Hotellet er markert på kartet: IBB Grand Hotel Lublin
 
 
 ### Vannhull
+|Sted|Type|
+|:---|:---|
+|Kozzak Cocktail Bar|Coctails|
+|Nocny Portier - Cocktail Bar|Coctails|
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1ai70ti4386IrrH8sS7sLe5X2gD_DQzk&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
