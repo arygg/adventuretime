@@ -24,16 +24,12 @@ Hotellet er markert på kartet: Hotel Catalonia Berlin Mitte
 
 ### Vannhull
 
-|Sted|Kategori|
-|:---|:---|
-
-
 <iframe src="https://www.google.com/maps/d/embed?mid=1ai70ti4386IrrH8sS7sLe5X2gD_DQzk&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Warzawa
 
 |Sted | Tidspunkt|
 |:---|:---|
-|Tinto|fredag 19:00|
+|Koneser Grill|søndag 17:00|
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1tJ1tp48DhucuIreXtAfH1LeleRvmK1k&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
