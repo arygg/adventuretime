@@ -2,8 +2,7 @@ Under følger en digital variant av den tidligere papirlappen. Denne er vanskeli
 
 ## Lublin
 
-Hotellet er markert på kartet: Hotel Catalonia Berlin Mitte
-
+Hotellet er markert på kartet: IBB Grand Hotel Lublin
 
 ### Bespisning
 
@@ -27,6 +26,8 @@ Hotellet er markert på kartet: Hotel Catalonia Berlin Mitte
 <iframe src="https://www.google.com/maps/d/embed?mid=1ai70ti4386IrrH8sS7sLe5X2gD_DQzk&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Warzawa
+
+Hotellet er markert på kartet: Sofitel Warsaw Victoria
 
 |Sted | Tidspunkt|
 |:---|:---|
