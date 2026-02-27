@@ -18,7 +18,7 @@ Hotellet er markert på kartet: IBB Grand Hotel Lublin
 
 |Event|Oppmøtetidspunkt|
 |:---|:---|
-|Eldars Helmet Experience|avreise fra hotellet 11:00|
+|Eldars Helmet Experience|avreise fra hotellet 10:30|
 
 
 ### Vannhull
