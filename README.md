@@ -10,8 +10,8 @@ Hotellet er markert på kartet: IBB Grand Hotel Lublin
 |:---|:---|
 |Magical place on road|fredag 14:00|
 |Tinto|fredag 19:00|
-|Chapter One|lørdag 13:30|
-|Restauracja 16 Stołów|lørdag 20:00|
+|Restauracja 16 Stołów|lørdag 13:30|
+|Chapter One|lørdag 20:00|
 
 
 ### Øvrig program
